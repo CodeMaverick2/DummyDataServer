@@ -79,34 +79,6 @@ This Node.js project sets up a server that fetches and stores dummy JSON data in
    You can choose either method based on your needs.
 
 
-## File structure
-```
-DummyDataServer/
-├── Images/
-│   ├── Image1.png
-│   ├── Image2.png
-│   ├── Image3.png
-│   └── Image4.png
-├── node_modules/
-├── controllers/
-│   ├── dataController.js
-├── models/
-│   ├── dataModel.js
-├── routes/
-│   ├── dataRoutes.js
-├── utils/
-│   ├── filterData.js
-│   ├── sortData.js
-│   └── fetchData.js
-├── app.js
-├── server.js
-├── .env
-├── .gitignore
-├── package.json
-├── README.md
-└── package-lock.json
-```
-
 ## API Endpoints
 
 ### 1. Fetch All Data
